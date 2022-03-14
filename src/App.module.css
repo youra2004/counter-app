@@ -1,0 +1,88 @@
+.app {
+  width: 80%;
+  height: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border: 10px solid #7fd8e6;
+  border-radius: 12px;
+  background-color: #ddf2f5;
+  margin-left: 10%;
+}
+.amount {
+  background-color: #17a2b8;
+  width: 60px;
+  text-align: center;
+  border-radius: 18px;
+}
+.container {
+  margin-left: 20px;
+  display: inline-block;
+}
+.container p {
+  font-size: 20px;
+}
+.container h2 {
+  color: white;
+}
+.refresh {
+  background-color: #ddf2f5;
+  margin-left: 40%;
+  display: inline-block;
+}
+.refresh button {
+  border: 0;
+  font-size: 30px;
+  background-color: #ddf2f5;
+}
+.product {
+  text-align: center;
+}
+.product button {
+  border: 0;
+  padding: 10px;
+  border-radius: 6px;
+}
+.zero {
+  display: inline-block;
+  margin: 10px;
+}
+.zero button {
+  color: #212529;
+  height: 40px;
+  width: 80px;
+  font-size: 20px;
+  background-color: #ffc107;
+}
+.plus button {
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  background-color: #6c757d;
+}
+.minus button {
+  color: #fff;
+  height: 40px;
+  font-size: 20px;
+  width: 40px;
+  background-color: #17a2b8;
+}
+.delete button {
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  background-color: #dc3545;
+}
+.plus {
+  display: inline-block;
+  margin: 10px;
+}
+.minus {
+  display: inline-block;
+  margin: 10px;
+}
+.delete {
+  display: inline-block;
+  margin: 10px;
+}
